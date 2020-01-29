@@ -45,7 +45,7 @@ def reduce_to_total (array)
     total += array[index]
     index += 1
   end
-  new_array
+  total
 end
     
 
